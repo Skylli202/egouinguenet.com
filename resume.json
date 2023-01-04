@@ -7,7 +7,7 @@
     "email": "elouangouinguenet@yahoo.fr",
     "phone": "",
     "url": "",
-    "summary": "During my full-time job, I'm a software engineer working with companies to adapt and enhance the capabilities of their ERP (Enterprise Resource Planning) with a wide range of actions such as enhancement of the default behavior, development of customized functionalities and design of real-time interconnection between their ERP and 3rd party applications. My expertise includes customer relationship, strong problem-solving skills, and knowledge on a wide range of tech stacks about desktop/web applications. I enjoy exploring new technologies and frameworks, as well as improving efficiencies through automations and workflows. My colleagues would describe me as \"organized, rigorous and reliable\". I'm highly interested in Rust development, TDD (Test Driven Development) and Gitflow.",
+    "summary": "TODO: write a revelant about section for a resume. LinkedIn about section is not suited for a resume.",
     "location": {
       "countryCode": "FR",
       "address": ""
@@ -375,6 +375,7 @@
   "projects": [],
   "meta": {
     "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+    "theme": "Kendall"
   }
 }
