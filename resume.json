@@ -1,0 +1,381 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Elouan GOUINGUENET",
+    "label": "Software engineer",
+    "image": "",
+    "email": "elouangouinguenet@yahoo.fr",
+    "phone": "",
+    "url": "",
+    "summary": "During my full-time job, I'm a software engineer working with companies to adapt and enhance the capabilities of their ERP (Enterprise Resource Planning) with a wide range of actions such as enhancement of the default behavior, development of customized functionalities and design of real-time interconnection between their ERP and 3rd party applications. My expertise includes customer relationship, strong problem-solving skills, and knowledge on a wide range of tech stacks about desktop/web applications. I enjoy exploring new technologies and frameworks, as well as improving efficiencies through automations and workflows. My colleagues would describe me as \"organized, rigorous and reliable\". I'm highly interested in Rust development, TDD (Test Driven Development) and Gitflow.",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "elouan-gouinguenet-6b21a715a",
+        "url": "https://www.linkedin.com/in/elouan-gouinguenet-6b21a715a/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "4CAD Group",
+      "position": "Technical Consultant",
+      "startDate": "2021-09-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "This position is issued from a company takeover.\nFor more details about this position, refer to \"Technical Consultant at Logtimiz\".",
+      "url": "https://www.linkedin.com/company/4cad-group/",
+      "location": "Limonest, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Logtimiz",
+      "position": "Technical Consultant",
+      "startDate": "2021-09-30",
+      "endDate": "2022-09-30",
+      "highlights": [],
+      "summary": "Technical analysis, estimate, and realization of custom adaptations on the ERP Sage X3.\nTMA engineer on the ERP Sage X3.\n\nAuthor of the \"RichMail By Logtimiz\" Sage X3 Add-on who enhance the mailing capabilities of Sage X3.\n\nResponsible for the \"in-house\" build ticketing application interconnected with the ERP Sage X3 (Product owner and Technical lead).",
+      "url": "https://www.linkedin.com/company/logtimiz-sarl/",
+      "location": "Limonest, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Logtimiz",
+      "position": "Contrat de professionnalisation",
+      "startDate": "2020-09-30",
+      "endDate": "2021-09-30",
+      "highlights": [],
+      "summary": "Realization of custom adaptations on the ERP Sage X3.\nSupport engineer (L1) for Sage X3 TMA.\n\nPrincipal maintainer ticketing web application (bug and hotfixes, development of new feature and monitoring performances)",
+      "url": "https://www.linkedin.com/company/logtimiz-sarl/",
+      "location": "Limonest, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Logtimiz",
+      "position": "Software Engineer Internship",
+      "startDate": "2020-05-31",
+      "endDate": "2020-08-31",
+      "highlights": [],
+      "summary": "Analysis and design of a web application combining customer space and support space based on the Symfony framework. Interconnexion of the web application with SAGE X3 ERP through web servicies.",
+      "url": "https://www.linkedin.com/company/logtimiz-sarl/",
+      "location": "Limonest, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Rosalie Le Lavandou",
+      "position": "Responsable de Location de Rosalie",
+      "startDate": "2018-06-30",
+      "endDate": "2018-08-31",
+      "highlights": [],
+      "summary": "",
+      "url": "",
+      "location": "Le Lavandou"
+    },
+    {
+      "name": "Churros",
+      "position": "Responsable de stand",
+      "startDate": "2017-06-30",
+      "endDate": "2017-09-30",
+      "highlights": [],
+      "url": "",
+      "location": "Le Lavandou"
+    },
+    {
+      "name": "Pizza Hut France",
+      "position": "Employé polyvalent",
+      "startDate": "2017-01-31",
+      "endDate": "2017-06-30",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/pizzahutfr/",
+      "location": "Région de Dijon, France"
+    },
+    {
+      "name": "Tuteur scolaire",
+      "position": "Employé polyvalent ",
+      "startDate": "2015-09-30",
+      "endDate": "2016-06-30",
+      "highlights": [],
+      "url": "",
+      "location": "Nice"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Ecole supérieure d'ingénieurs de recherche en matériaux et en InfoTronique (ESIREM)",
+      "area": "Informatique et Electronique",
+      "studyType": "Ingénieur des logiciels et des connaissances",
+      "startDate": "2018-12-31",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Université de Bourgogne",
+      "area": "Informatique",
+      "studyType": "Licence",
+      "startDate": "2016-09-30",
+      "endDate": "2018-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Honoré d'Estienne d'Orves",
+      "area": "Spécialisation Informatique et Science du numérique",
+      "studyType": "Baccalauréat scientifique",
+      "startDate": "2012-12-31",
+      "endDate": "2015-12-31",
+      "score": "AB",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Cisco Certified Network Associate Industrial (CCNA I)",
+      "issuer": "Cisco Networking Academy",
+      "startDate": "2019-06-30"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Symfony Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Automated Software Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHPUnit",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "End-to-end Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "API Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sage X3",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Services web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conception web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Design d’interface utilisateur",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MariaDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Composants web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sage ERP X3",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Services web RESTful",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Interconnexion d'applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Relation client",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programmation orientée objet (OOP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion de projet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programmation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Qt Creator",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programmation web",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Qt",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Modélisation orientée objet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Eclipse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement de logiciels",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Système de gestion des réseaux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitHub",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Framework Symfony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Systèmes embarqués",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Modélisation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bases de données relationnelles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Feuilles de style en cascade (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
