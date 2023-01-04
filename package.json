@@ -1,0 +1,10 @@
+{
+  "name": "jsonresume",
+  "version": "1.0.0",
+  "description": "Elouan GOUINGUENET resume made with JSON Resume initiative. https://jsonresume.org",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
