@@ -1,1 +1,8 @@
+# Ignore nodejs deps
 node_modules
+
+# Ignore live preview files
+public
+
+# Ignore builded files
+build
