@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "npx resume serve",
     "validate": "npx resume validate",
-    "export": "npx resume export -t elegant build/index.html && npx resume export -t elegant build/resume.pdf"
+    "build": "npx resume export -t elegant build/index.html && npx resume export -t elegant build/resume.pdf"
   },
   "keywords": [],
   "author": "",
