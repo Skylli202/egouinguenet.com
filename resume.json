@@ -3,19 +3,20 @@
   "basics": {
     "name": "Elouan GOUINGUENET",
     "label": "Software engineer",
-    "image": "",
+    "image": "https://pbs.twimg.com/profile_images/1610749987687628800/lukWUbjh_400x400.jpg",
     "email": "elouangouinguenet@yahoo.fr",
-    "phone": "",
+    "phone": "+33 6 88 08 63 14",
     "url": "",
     "summary": "TODO: write a revelant about section for a resume. LinkedIn about section is not suited for a resume.",
     "location": {
-      "countryCode": "FR",
-      "address": ""
+      "address": "420 Avenue Général de Gaulle",
+      "city": "Limonest",
+      "postalCode": "69760"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "elouan-gouinguenet-6b21a715a",
+        "username": "Elouan GOUINGUENET",
         "url": "https://www.linkedin.com/in/elouan-gouinguenet-6b21a715a/"
       }
     ]
@@ -23,109 +24,75 @@
   "work": [
     {
       "name": "4CAD Group",
+      "description": "This is a description, in oppsition of a summary",
       "position": "Technical Consultant",
       "startDate": "2021-09-30",
-      "highlights": [],
-      "summary": "This position is issued from a company takeover.\nFor more details about this position, refer to \"Technical Consultant at Logtimiz\".",
-      "url": "https://www.linkedin.com/company/4cad-group/",
-      "location": "Limonest, Auvergne-Rhône-Alpes, France"
+      "summary": "This position is issued from a company takeover. \nWhere I pursue my various task of technical consultant software engineer on Sage X3. \nAs well my roles of Product owner and Technical leader for the Sage X3 Add-on \"RichMail By Logtimiz\" and the \"In-House\" build ticketing application.",
+      "location": "Limonest, France"
     },
     {
       "name": "Logtimiz",
-      "position": "Technical Consultant",
-      "startDate": "2021-09-30",
-      "endDate": "2022-09-30",
+      "position": "Software engineer - Technical Consultant",
+      "startDate": "2021-03-01",
       "highlights": [],
-      "summary": "Technical analysis, estimate, and realization of custom adaptations on the ERP Sage X3.\nTMA engineer on the ERP Sage X3.\n\nAuthor of the \"RichMail By Logtimiz\" Sage X3 Add-on who enhance the mailing capabilities of Sage X3.\n\nResponsible for the \"in-house\" build ticketing application interconnected with the ERP Sage X3 (Product owner and Technical lead).",
-      "url": "https://www.linkedin.com/company/logtimiz-sarl/",
-      "location": "Limonest, Auvergne-Rhône-Alpes, France"
+      "description": "this is a defdsqfgdsfdsqfdsYODAsc.",
+      "summary": "Responsible of the \"In-House\" build ticketing application interconnected with the ERP Sage X3 (Product owner and Technical lead). \n\nStrong from my problem solving skills and my experience in ticketing I became in charge of wider project with the analysis, estimate, and realization of custom adaptations on the ERP Sage X3. While still being a technical consultant engineer in the support team. \n\nI'm also the author of the \"RichMail By Logtimiz\" Sage X3 Add-on who enhance the mailing capabilities of Sage X3.",
+      "location": "Limonest, France"
     },
     {
       "name": "Logtimiz",
-      "position": "Contrat de professionnalisation",
-      "startDate": "2020-09-30",
-      "endDate": "2021-09-30",
+      "position": "Software engineer - Junior Technical Consultant",
+      "startDate": "2020-09-10",
+      "endDate": "2021-03-01",
       "highlights": [],
-      "summary": "Realization of custom adaptations on the ERP Sage X3.\nSupport engineer (L1) for Sage X3 TMA.\n\nPrincipal maintainer ticketing web application (bug and hotfixes, development of new feature and monitoring performances)",
-      "url": "https://www.linkedin.com/company/logtimiz-sarl/",
-      "location": "Limonest, Auvergne-Rhône-Alpes, France"
+      "description": "this is a desc.",
+      "summary": "I pursued the work done in my internship as the principal maintener of the ticketing web application, now in production. Being in charge of various task from bug/hotfixes, development of the new feature requested by my co-worker and our customer to the maintenance of the production application and delivery of new releases.\n\nIn addition, I join the support team to sharpen my Sage X3 knowledge, customer relationship skills.",
+      "location": "Limonest, France"
     },
     {
       "name": "Logtimiz",
       "position": "Software Engineer Internship",
-      "startDate": "2020-05-31",
-      "endDate": "2020-08-31",
+      "description": "this is a desc.",
+      "startDate": "2020-05-18",
+      "endDate": "2020-08-01",
       "highlights": [],
-      "summary": "Analysis and design of a web application combining customer space and support space based on the Symfony framework. Interconnexion of the web application with SAGE X3 ERP through web servicies.",
-      "url": "https://www.linkedin.com/company/logtimiz-sarl/",
-      "location": "Limonest, Auvergne-Rhône-Alpes, France"
+      "summary": "Analysis and design of a web application combining customer space and support space based on the Symfony framework.\n Real-time interconnection of the web application with the company ERP (Sage X3).",
+      "location": "Limonest, France"
     },
     {
-      "name": "Rosalie Le Lavandou",
-      "position": "Responsable de Location de Rosalie",
-      "startDate": "2018-06-30",
-      "endDate": "2018-08-31",
+      "position": "Student job",
+      "startDate": "2015-09-01",
+      "endDate": "2019-08-31",
       "highlights": [],
-      "summary": "",
-      "url": "",
-      "location": "Le Lavandou"
-    },
-    {
-      "name": "Churros",
-      "position": "Responsable de stand",
-      "startDate": "2017-06-30",
-      "endDate": "2017-09-30",
-      "highlights": [],
-      "url": "",
-      "location": "Le Lavandou"
-    },
-    {
-      "name": "Pizza Hut France",
-      "position": "Employé polyvalent",
-      "startDate": "2017-01-31",
-      "endDate": "2017-06-30",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/pizzahutfr/",
-      "location": "Région de Dijon, France"
-    },
-    {
-      "name": "Tuteur scolaire",
-      "position": "Employé polyvalent ",
-      "startDate": "2015-09-30",
-      "endDate": "2016-06-30",
-      "highlights": [],
-      "url": "",
-      "location": "Nice"
+      "summary": "Various position as a student and/or summer job.\nFrom tutor for elementary/highschool studen to Crew member at Pizza Hut or Universal agent in a movie theater."
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Ecole supérieure d'ingénieurs de recherche en matériaux et en InfoTronique (ESIREM)",
-      "area": "Informatique et Electronique",
-      "studyType": "Ingénieur des logiciels et des connaissances",
-      "startDate": "2018-12-31",
-      "endDate": "2021-12-31",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Université de Bourgogne",
-      "area": "Informatique",
-      "studyType": "Licence",
-      "startDate": "2016-09-30",
-      "endDate": "2018-06-30",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Lycée Honoré d'Estienne d'Orves",
-      "area": "Spécialisation Informatique et Science du numérique",
-      "studyType": "Baccalauréat scientifique",
-      "startDate": "2012-12-31",
-      "endDate": "2015-12-31",
-      "score": "AB",
-      "courses": []
+      "institution": "ESIREM - Ecole supérieure d'ingénieurs de recherche en matériaux et en InfoTronique (ESIREM)",
+      "area": "Computer Science",
+      "studyType": "Software engineer",
+      "startDate": "2016-09-01",
+      "endDate": "2021-09-10",
+      "score": "3.5/5 (GPA)",
+      "courses": [
+        "Operating System",
+        "Networking and Security",
+        "OOP - Object Oriented Programming",
+        "SQL - Structured Query Language",
+        "Mobil development (Swift)",
+        "Desktop application (Java/C++)",
+        "Artificial Intelligence",
+        "Big Data",
+        "Business Intelligence",
+        "Parallelism and distributed resource management",
+        "Cloud Computing",
+        "Cognitive Psychology applied to UI/UX design",
+        "Wireless Communication protocol (RFID, NFC)",
+        "Image and Signal analysis",
+        "Advanced UML"
+      ]
     }
   ],
   "awards": [],
@@ -133,15 +100,20 @@
     {
       "name": "Cisco Certified Network Associate Industrial (CCNA I)",
       "issuer": "Cisco Networking Academy",
-      "startDate": "2019-06-30"
+      "date": "2019-06-30"
+    },
+    {
+      "name": "TOEIC - 935/990",
+      "issuer": "Educational Testing Service (ETS)",
+      "date": "2019-05-01"
     }
   ],
   "publications": [],
   "skills": [
     {
       "name": "Symfony Framework",
-      "level": "",
-      "keywords": []
+      "level": "some level",
+      "keywords": ["keyword-1", "keyword-2"]
     },
     {
       "name": "Automated Software Testing",
@@ -366,8 +338,12 @@
   ],
   "languages": [
     {
-      "language": "fr",
+      "language": "french",
       "fluency": "Native Speaker"
+    },
+    {
+      "language": "english",
+      "fluency": "Bilingual"
     }
   ],
   "interests": [],
@@ -376,6 +352,6 @@
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
-    "theme": "Kendall"
+    "theme": "elegant"
   }
 }
