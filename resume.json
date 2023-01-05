@@ -6,12 +6,10 @@
     "image": "https://pbs.twimg.com/profile_images/1610749987687628800/lukWUbjh_400x400.jpg",
     "picture": "https://pbs.twimg.com/profile_images/1610749987687628800/lukWUbjh_400x400.jpg",
     "email": "elouangouinguenet@yahoo.fr",
-    "phone": "+33 6 88 08 63 14",
     "url": "https://elouangouinguenet.com",
     "summary": "This about section have not been made yet!\nCome back later for update!",
     "location": {
-      "address": "420 Avenue Général de Gaulle",
-      "city": "Limonest",
+      "city": "Limonest FRANCE",
       "postalCode": "69760"
     },
     "profiles": [
@@ -19,6 +17,10 @@
         "network": "LinkedIn",
         "username": "Elouan GOUINGUENET",
         "url": "https://www.linkedin.com/in/elouan-gouinguenet-6b21a715a/"
+      },
+      {
+        "network": "",
+        "url": "https://my-resume-dev--pr3-feat-update-skills-zl6koru3.web.app"
       }
     ]
   },
