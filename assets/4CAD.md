@@ -1,0 +1,1 @@
+This position is issued from a company takeover. \nWhere I pursue my various task of **technical consultant engineer** on Sage X3. \nAs well my roles of **Product owner** and **Technical leader** for the Sage X3 Add-on \"RichMail By Logtimiz\" and the \"In-House\" build ticketing application.
