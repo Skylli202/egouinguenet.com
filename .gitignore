@@ -6,3 +6,7 @@ public
 
 # Ignore builded files
 build
+
+# Ignore pdf and html files at root project
+./*.pdf
+./*.html
