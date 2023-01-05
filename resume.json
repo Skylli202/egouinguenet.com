@@ -4,10 +4,11 @@
     "name": "Elouan GOUINGUENET",
     "label": "Software engineer",
     "image": "https://pbs.twimg.com/profile_images/1610749987687628800/lukWUbjh_400x400.jpg",
+    "picture": "https://pbs.twimg.com/profile_images/1610749987687628800/lukWUbjh_400x400.jpg",
     "email": "elouangouinguenet@yahoo.fr",
     "phone": "+33 6 88 08 63 14",
     "url": "https://elouangouinguenet.com",
-    "summary": "I made some change!",
+    "summary": "This about section have not been made yet!\nCome back later for update!",
     "location": {
       "address": "420 Avenue Général de Gaulle",
       "city": "Limonest",
@@ -24,19 +25,24 @@
   "work": [
     {
       "name": "4CAD Group",
-      "description": "This is a description, in oppsition of a summary",
       "position": "Technical Consultant",
       "startDate": "2021-09-30",
-      "summary": "This position is issued from a company takeover. \nWhere I pursue my various task of technical consultant software engineer on Sage X3. \nAs well my roles of Product owner and Technical leader for the Sage X3 Add-on \"RichMail By Logtimiz\" and the \"In-House\" build ticketing application.",
+      "highlights": ["highlight-1", "highlight-2"],
+      "description": "Software service company for the product Sage X3, PTC Creo & WindChill, Salesforce & Ansys Simulation.",
+      "summary": "This position is issued from a company takeover. \nWhere I pursue my various task of **technical consultant engineer** on Sage X3. \nAs well my roles of **Product owner** and **Technical leader** for the Sage X3 Add-on \"RichMail By Logtimiz\" and the \"In-House\" build ticketing application.",
       "location": "Limonest, France"
     },
     {
       "name": "Logtimiz",
       "position": "Software engineer - Technical Consultant",
       "startDate": "2021-03-01",
-      "highlights": [],
-      "description": "this is a defdsqfgdsfdsqfdsYODAsc.",
-      "summary": "Responsible of the \"In-House\" build ticketing application interconnected with the ERP Sage X3 (Product owner and Technical lead). \n\nStrong from my problem solving skills and my experience in ticketing I became in charge of wider project with the analysis, estimate, and realization of custom adaptations on the ERP Sage X3. While still being a technical consultant engineer in the support team. \n\nI'm also the author of the \"RichMail By Logtimiz\" Sage X3 Add-on who enhance the mailing capabilities of Sage X3.",
+      "highlights": [
+        "In charge of one full-time web developer",
+        "Complexe add-on development environment to support a wide range of Sage X3 version (from v7 to v12)",
+        "Developed intern tools for Add-on deployment, certificates and licenses generation (Tauri desktop application)"
+      ],
+      "description": "Software service company for the product Sage X3.",
+      "summary": "Responsible of the \"In-House\" build ticketing application interconnected with the ERP Sage X3 (Product owner and Technical lead).\n\nStrong from my problem solving skills and my experience in ticketing I became in charge of wider project with the analysis, estimate, and realization of custom adaptations on the ERP Sage X3. While still being a technical consultant engineer in the support team. \n\nI'm also the author of the \"RichMail By Logtimiz\" Sage X3 Add-on who enhance the mailing capabilities of Sage X3.",
       "location": "Limonest, France"
     },
     {
@@ -44,15 +50,19 @@
       "position": "Software engineer - Junior Technical Consultant",
       "startDate": "2020-09-10",
       "endDate": "2021-03-01",
-      "highlights": [],
-      "description": "this is a desc.",
+      "highlights": [
+        "PHP Programming language and Symfony framework",
+        "UML and OOP development",
+        "Twig, Bootstrap and Vue3 for Front-End development"
+      ],
+      "description": "Software service company for the product Sage X3.",
       "summary": "I pursued the work done in my internship as the principal maintener of the ticketing web application, now in production. Being in charge of various task from bug/hotfixes, development of the new feature requested by my co-worker and our customer to the maintenance of the production application and delivery of new releases.\n\nIn addition, I join the support team to sharpen my Sage X3 knowledge, customer relationship skills.",
       "location": "Limonest, France"
     },
     {
       "name": "Logtimiz",
       "position": "Software Engineer Internship",
-      "description": "this is a desc.",
+      "description": "Software service company for the product Sage X3.",
       "startDate": "2020-05-18",
       "endDate": "2020-08-01",
       "highlights": [],
@@ -111,16 +121,6 @@
   "publications": [],
   "skills": [
     {
-      "name": "Test framework",
-      "level": "",
-      "keywords": ["PHPUnit", "Jest", "Supertest"]
-    },
-    {
-      "name": "End-to-end Testing",
-      "level": "",
-      "keywords": ["Jasmine", "Postman Test Script"]
-    },
-    {
       "name": "Programming language",
       "level": "",
       "keywords": [
@@ -130,203 +130,83 @@
         "Matlab/GNU Octave",
         "PHP",
         "JavaScript & TypeScript",
+        "Rust",
         "L4G"
       ]
     },
     {
-      "name": "Framework",
+      "name": "Web development",
       "level": "",
-      "keywords": ["Symfony", "AdonisJS", "", "", "Vus3"]
+      "keywords": [
+        "Symfony",
+        "AdonisJS",
+        "Tailwind",
+        "Vus3",
+        "Svelte & SvelteKit",
+        "GraphQL",
+        "Bootstrap",
+        "JQuery"
+      ]
     },
     {
-      "name": "Sage X3",
-      "level": "",
-      "keywords": []
+      "name": "Desktop development",
+      "keywords": ["Tauri", "QtCreator"]
     },
     {
-      "name": "Services web",
+      "name": "Test framework (Unit & E2E test)",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "PHPUnit",
+        "Jest",
+        "Supertest",
+        "Jasmine",
+        "Postman Test Script"
+      ]
     },
     {
-      "name": "Développement web",
+      "name": "Databases",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "MariaDB",
+        "Microsoft SQL Server",
+        "Oracle SQL",
+        "PocketBase",
+        "SupaBase"
+      ]
     },
     {
-      "name": "Conception web",
+      "name": "Development tools",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Docker",
+        "HTTP Request tools (Postman, Insomnia, RapidAPI)",
+        "Firebase",
+        "Swagger"
+      ]
     },
     {
-      "name": "Design d’interface utilisateur",
+      "name": "Version Control System (VCS)",
       "level": "",
-      "keywords": []
+      "keywords": ["Git", "Github", "Gitlab"]
     },
     {
-      "name": "MariaDB",
-      "level": "",
-      "keywords": []
+      "name": "Continuous Integration / Continuous Development (CI/CD)",
+      "keywords": ["GitHub Actions / Workflows", "Gitlab Pipelines"]
     },
     {
-      "name": "jQuery",
-      "level": "",
-      "keywords": []
+      "name": "",
+      "keywords": [
+        "HTTP / HTTPS",
+        "DNS",
+        "TCP / UDP",
+        "Bash",
+        "PowerShell"
+      ]
     },
     {
-      "name": "Bootstrap",
+      "name": "Enterprise resource planning (ERP)",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Composants web",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Sage ERP X3",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Services web RESTful",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Interconnexion d'applications",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Relation client",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Programmation orientée objet (OOP)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gestion de projet",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Programmation",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Qt Creator",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Programmation web",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Qt",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Modélisation orientée objet",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Eclipse",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Java",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Développement de logiciels",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Système de gestion des réseaux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "GitHub",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Framework Symfony",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Systèmes embarqués",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Modélisation",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "C++",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bases de données relationnelles",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Feuilles de style en cascade (CSS)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML5",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": []
+      "keywords": ["Sage X3"]
     }
   ],
   "languages": [
