@@ -50,11 +50,7 @@
       "position": "Software engineer - Junior Technical Consultant",
       "startDate": "2020-09-10",
       "endDate": "2021-03-01",
-      "highlights": [
-        "PHP Programming language and Symfony framework",
-        "UML and OOP development",
-        "Twig, Bootstrap and Vue3 for Front-End development"
-      ],
+      "highlights": [],
       "description": "Software service company for the product Sage X3.",
       "summary": "I pursued the work done in my internship as the principal maintener of the ticketing web application, now in production. Being in charge of various task from bug/hotfixes, development of the new feature requested by my co-worker and our customer to the maintenance of the production application and delivery of new releases.\n\nIn addition, I join the support team to sharpen my Sage X3 knowledge, customer relationship skills.",
       "location": "Limonest, France"
@@ -65,7 +61,11 @@
       "description": "Software service company for the product Sage X3.",
       "startDate": "2020-05-18",
       "endDate": "2020-08-01",
-      "highlights": [],
+      "highlights": [
+        "PHP Programming language and Symfony framework",
+        "UML and OOP development",
+        "Twig, Bootstrap and Vue3 for Front-End development"
+      ],
       "summary": "Analysis and design of a web application combining customer space and support space based on the Symfony framework.\n Real-time interconnection of the web application with the company ERP (Sage X3).",
       "location": "Limonest, France"
     },
@@ -195,13 +195,7 @@
     },
     {
       "name": "",
-      "keywords": [
-        "HTTP / HTTPS",
-        "DNS",
-        "TCP / UDP",
-        "Bash",
-        "PowerShell"
-      ]
+      "keywords": ["HTTP / HTTPS", "DNS", "TCP / UDP", "Bash", "PowerShell"]
     },
     {
       "name": "Enterprise resource planning (ERP)",
