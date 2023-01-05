@@ -111,39 +111,32 @@
   "publications": [],
   "skills": [
     {
-      "name": "Symfony Framework",
-      "level": "some level",
-      "keywords": ["keyword-1", "keyword-2"]
-    },
-    {
-      "name": "Automated Software Testing",
+      "name": "Test framework",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PHPUnit",
-      "level": "",
-      "keywords": []
+      "keywords": ["PHPUnit", "Jest", "Supertest"]
     },
     {
       "name": "End-to-end Testing",
       "level": "",
-      "keywords": []
+      "keywords": ["Jasmine", "Postman Test Script"]
     },
     {
-      "name": "TypeScript",
+      "name": "Programming language",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "Matlab/GNU Octave",
+        "PHP",
+        "JavaScript & TypeScript",
+        "L4G"
+      ]
     },
     {
-      "name": "Test Driven Development",
+      "name": "Framework",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "API Development",
-      "level": "",
-      "keywords": []
+      "keywords": ["Symfony", "AdonisJS", "", "", "Vus3"]
     },
     {
       "name": "Sage X3",
