@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "my-resume-360a8",
+    "default": "my-resume-dev",
     "dev": "my-resume-dev"
   },
   "targets": {},
