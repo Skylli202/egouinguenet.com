@@ -25,7 +25,13 @@
       "name": "4CAD Group",
       "position": "Technical Consultant",
       "startDate": "2021-09-30",
-      "highlights": ["highlight-1", "highlight-2"],
+      "highlights": [
+        "Analyze technical and functional customer requirement",
+        "Redaction of intern technical documentation",
+        "Redaction of customer targeted functional documentation",
+        "Conception of software inter-connection with real-time update",
+        "API conception and consumption"
+      ],
       "description": "Software service company for the product Sage X3, PTC Creo & WindChill, Salesforce & Ansys Simulation.",
       "summary": "_This position is issued from a company takeover._\n\nWhere I pursue my various task of **technical consultant engineer** on Sage X3. \nAs well my roles of **Product owner** and **Technical leader** for the Sage X3 Add-on \"RichMail By Logtimiz\" and the \"In-House\" built ticketing application.",
       "location": "Limonest, France"
@@ -37,7 +43,8 @@
       "highlights": [
         "In charge of one full-time web developer",
         "Complex add-on development environment to support a wide range of Sage X3 version (from v7 to v12)",
-        "Developed intern tools for Add-on deployment, certificates and licenses generation (Tauri desktop application)"
+        "Developed intern tools for Add-on deployment, certificates and licenses generation (Tauri desktop application)",
+        "Learn how to dialog and interact with a wide range of customers size (from couple people organization to multi-national corporation"
       ],
       "description": "Software service company for the product Sage X3.",
       "summary": "Responsible of the \"In-House\" built ticketing application interconnected with the ERP Sage X3 (Product owner and Technical lead).\n\nStrong from my problem solving skills and my experience in ticketing I became in charge of wider project with the analysis, estimate, and realization of custom adaptations on the ERP Sage X3. While still being a technical consultant engineer in the support team. \n\nI'm also the author of the \"RichMail By Logtimiz\" Sage X3 Add-on who enhance the mailing capabilities of Sage X3.",
@@ -123,6 +130,7 @@
       "level": "some level",
       "keywords": [
         "Symfony",
+        "Symfony UX",
         "Flask",
         "Swagger"
       ]
@@ -162,56 +170,6 @@
       ]
     },
     {
-      "name": "Project organization",
-      "level": "",
-      "keywords": [
-        "Agile",
-        "Scrub",
-        "TDD"
-      ]
-    },
-    {
-      "name": "Sage X3",
-      "level": "",
-      "keywords": [
-        "L4G",
-        "V5 to V12"
-      ]
-    },
-    {
-      "name": "Software inter-connection",
-      "level": "",
-      "keywords": [
-        "Conception of software inter-connection",
-        "real-time update",
-        "API conception and consumption",
-        "REST",
-        "SOAP"
-      ]
-    },
-    {
-      "name": "Customer management and relationship",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Programming paradigm",
-      "level": "",
-      "keywords": [
-        "Object Oriented Programing",
-        "Functional Programing",
-        "Procedural Programing"
-      ]
-    },
-    {
-      "name": "Project management",
-      "level": "",
-      "keywords": [
-        "Jira",
-        "Trello"
-      ]
-    },
-    {
       "name": "Developer tool chains",
       "level": "",
       "keywords": [
@@ -220,15 +178,83 @@
         "VSCode",
         "Git",
         "Github & Gitlab",
-        "Docker"
+        "Docker",
+        "CI/CD pipelines"
       ]
     },
     {
-      "name": "CI/CD pipeline",
+      "name": "Project organization, management and software",
       "level": "",
       "keywords": [
-        "Github actions",
-        "Gitlab workflows"
+        "Jira",
+        "Trello",
+        "Agile",
+        "Scrub",
+        "Test Driven Development"
+      ]
+    },
+    {
+      "name": "Sage X3",
+      "level": "",
+      "keywords": [
+        "L4G",
+        "V5, V6, U7, U9, V11 and V12"
+      ]
+    },
+    {
+      "name": "Customer management and relationship",
+      "level": "",
+      "keywords": [
+        "TODO-1",
+        "TODO-2",
+        "TODO-3"
+      ]
+    },
+    {
+      "name": "Programming paradigm",
+      "level": "",
+      "keywords": [
+        "Object Oriented Programing",
+        "Functional Programing",
+        "Procedural Programing",
+        ""
+      ]
+    },
+    {
+      "name": "Database used",
+      "level": "",
+      "keywords": [
+        "Mariadb",
+        "Microsoft SQL Server",
+        "Oracle"
+      ]
+    },
+    {
+      "name": "IA model training - Python",
+      "level": "",
+      "keywords": [
+        "TensorFlow",
+        "pytorch",
+        "numpy",
+        "pandas"
+      ]
+    },
+    {
+      "name": "Operating system",
+      "level": "",
+      "keywords": [
+        "Windows (with WSL)",
+        "Debian based linux distributions",
+        "Fedora (linux)"
+      ]
+    },
+    {
+      "name": "Scripting languages",
+      "level": "",
+      "keywords": [
+        "Bash",
+        "PowerShell 7",
+        "PowerShell 5"
       ]
     },
     {
@@ -240,24 +266,6 @@
         "C++",
         "Kotlin",
         "Swift"
-      ]
-    },
-    {
-      "name": "Relational databases",
-      "level": "",
-      "keywords": [
-        "Mariadb",
-        "Microsoft SQL Server",
-        "Oracle"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": [
-        "pytorch",
-        "numpy",
-        "pandas"
       ]
     }
   ],
