@@ -123,86 +123,153 @@
   "publications": [],
   "skills": [
     {
-      "name": "Programming language",
-      "level": "",
-      "keywords": [
-        "Python",
-        "C++",
-        "Java",
-        "Matlab/GNU Octave",
-        "PHP",
-        "JavaScript & TypeScript",
-        "Rust",
-        "L4G"
-      ]
-    },
-    {
-      "name": "Web development",
-      "level": "",
+      "name": "Web development - Backend",
+      "level": "some level",
       "keywords": [
         "Symfony",
-        "AdonisJS",
-        "Tailwind",
-        "Vus3",
-        "Svelte & SvelteKit",
-        "GraphQL",
-        "Bootstrap",
-        "JQuery"
+        "PHP Tool chain",
+        "composer",
+        "Phpcs",
+        "PhpStan"
       ]
     },
     {
-      "name": "Desktop development",
-      "keywords": ["Tauri", "QtCreator"]
+      "name": "Web development - Frontend",
+      "level": "",
+      "keywords": [
+        "Svelte / SvelteKit",
+        "VueJS / NuxtJS",
+        "TailWind CSS",
+        "Bootstrap",
+        "jQuery"
+      ]
     },
     {
-      "name": "Test framework (Unit & E2E test)",
+      "name": "Automated Software Testing",
       "level": "",
       "keywords": [
         "PHPUnit",
         "Jest",
-        "Supertest",
-        "Jasmine",
-        "Postman Test Script"
+        "Karma"
       ]
     },
     {
-      "name": "Databases",
+      "name": "TypeScript",
       "level": "",
       "keywords": [
-        "MariaDB",
+        "Knowledge of the TypeScript tool chains",
+        "NodeJS",
+        "Deno",
+        "Packet manager (npm, yarn, pnpm"
+      ]
+    },
+    {
+      "name": "Project organization",
+      "level": "",
+      "keywords": [
+        "Agile",
+        "Scrub",
+        "TDD"
+      ]
+    },
+    {
+      "name": "Sage X3",
+      "level": "",
+      "keywords": [
+        "L4G",
+        "V5 to V12"
+      ]
+    },
+    {
+      "name": "Software inter-connection",
+      "level": "",
+      "keywords": [
+        "Conception of software inter-connection",
+        "real-time update",
+        "API conception and consumption",
+        "REST",
+        "SOAP"
+      ]
+    },
+    {
+      "name": "Customer management and relationship",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming paradigm",
+      "level": "",
+      "keywords": [
+        "Object Oriented Programing",
+        "Functional Programing",
+        "Procedural Programing"
+      ]
+    },
+    {
+      "name": "Project management",
+      "level": "",
+      "keywords": [
+        "Jira",
+        "Trello"
+      ]
+    },
+    {
+      "name": "C / C++",
+      "level": "",
+      "keywords": [
+        "Qt Creator",
+        "Qt",
+        "Embed system development"
+      ]
+    },
+    {
+      "name": "Developer tool chains",
+      "level": "",
+      "keywords": [
+        "JetBrains IDEs",
+        "Eclipse (L4G & Java)",
+        "VSCode",
+        "Git",
+        "Github & Gitlab",
+        "Docker"
+      ]
+    },
+    {
+      "name": "CI/CD pipeline",
+      "level": "",
+      "keywords": [
+        "Github actions",
+        "Gitlab workflows"
+      ]
+    },
+    {
+      "name": "Other programming language",
+      "level": "",
+      "keywords": [
+        "Java",
+        "C",
+        "C++",
+        "C++ Qt Creator",
+        "Mobile development (Kotlin & Swift)"
+      ]
+    },
+    {
+      "name": "Relational databases",
+      "level": "",
+      "keywords": [
+        "Mariadb",
         "Microsoft SQL Server",
-        "Oracle SQL",
-        "PocketBase",
-        "SupaBase"
+        "Oracle"
       ]
     },
     {
-      "name": "Development tools",
+      "name": "Python",
       "level": "",
       "keywords": [
-        "Docker",
-        "HTTP Request tools (Postman, Insomnia, RapidAPI)",
-        "Firebase",
-        "Swagger"
+        "pytorch",
+        "numpy",
+        "pandas"
       ]
-    },
-    {
-      "name": "Version Control System (VCS)",
-      "level": "",
-      "keywords": ["Git", "Github", "Gitlab"]
-    },
-    {
-      "name": "Continuous Integration / Continuous Development (CI/CD)",
-      "keywords": ["GitHub Actions / Workflows", "Gitlab Pipelines"]
-    },
-    {
-      "name": "",
-      "keywords": ["HTTP / HTTPS", "DNS", "TCP / UDP", "Bash", "PowerShell"]
-    },
-    {
-      "name": "Enterprise resource planning (ERP)",
-      "level": "",
-      "keywords": ["Sage X3"]
     }
   ],
   "languages": [
