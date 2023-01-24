@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Elouan GOUINGUENET resume made with JSON Resume initiative. https://jsonresume.org",
   "scripts": {
-    "dev": "npx resume serve",
+    "dev": "npx resume serve --theme elegant",
     "validate": "npx resume validate",
     "build": "npx resume export -t elegant ./build/index.html && npx resume export -t elegant ./build/resume.pdf"
   },
