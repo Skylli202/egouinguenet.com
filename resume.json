@@ -214,15 +214,6 @@
       ]
     },
     {
-      "name": "C / C++",
-      "level": "",
-      "keywords": [
-        "Qt Creator",
-        "Qt",
-        "Embed system development"
-      ]
-    },
-    {
       "name": "Developer tool chains",
       "level": "",
       "keywords": [
@@ -243,14 +234,14 @@
       ]
     },
     {
-      "name": "Other programming language",
+      "name": "Others programming languages",
       "level": "",
       "keywords": [
         "Java",
         "C",
         "C++",
-        "C++ Qt Creator",
-        "Mobile development (Kotlin & Swift)"
+        "Kotlin",
+        "Swift"
       ]
     },
     {
