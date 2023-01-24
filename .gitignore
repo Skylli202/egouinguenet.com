@@ -13,3 +13,9 @@ build
 
 # Ignore firebase folder
 .firebase
+
+# JetBrains files
+.idea
+
+# VSCode files
+.vscode
