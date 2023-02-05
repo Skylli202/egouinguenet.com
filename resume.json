@@ -2,12 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Elouan GOUINGUENET",
-    "label": "Software engineer",
+    "label": "Full Stack Software Engineer",
     "image": "https://pbs.twimg.com/profile_images/1610749987687628800/lukWUbjh_400x400.jpg",
     "picture": "https://pbs.twimg.com/profile_images/1610749987687628800/lukWUbjh_400x400.jpg",
-    "email": "elouangouinguenet@yahoo.fr",
+    "email": "elouangouinguenet@gmail.com",
     "url": "https://elouangouinguenet.com",
-    "summary": "This about section have not been made yet!\nCome back later for update!",
+    "summary": "I'm a full stack software engineer who always seek to add a new fun and cool tool to his toolbox!\nFrom the data structure and software architecture design to backend technologies and web services for real-time communication and frontend development with modern component's framework. I love the puzzle solving exercise of turning functional needs into a real working application.\n\nMy current favorite tool to play with are Rust (Tauri ❤) and SvelteKit with some CI/CD pipelines and a TDD methodology!",
     "location": {
       "city": "Limonest FRANCE",
       "postalCode": "69760"
@@ -17,6 +17,11 @@
         "network": "LinkedIn",
         "username": "Elouan GOUINGUENET",
         "url": "https://www.linkedin.com/in/elouan-gouinguenet-6b21a715a/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Skylli202 - Elouan G.",
+        "url": "https://github.com/Skylli202"
       }
     ]
   },
@@ -33,7 +38,7 @@
         "API conception and consumption"
       ],
       "description": "Software service company for the product Sage X3, PTC Creo & WindChill, Salesforce & Ansys Simulation.",
-      "summary": "_This position is issued from a company takeover._\n\nWhere I pursue my various task of **technical consultant engineer** on Sage X3. \nAs well my roles of **Product owner** and **Technical leader** for the Sage X3 Add-on \"RichMail By Logtimiz\" and the \"In-House\" built ticketing application.",
+      "summary": "_This position is issued from a company takeover. I didn't resign from my position._\n\nWhere I pursue my various task of **technical consultant engineer** on Sage X3. \nAs well my roles of **Product owner** and **Technical leader** for the Sage X3 Add-on \"RichMail By Logtimiz\" and the \"In-House\" built ticketing application.",
       "location": "Limonest, France"
     },
     {
