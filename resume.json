@@ -32,13 +32,13 @@
       "startDate": "2021-09-30",
       "highlights": [
         "Analyze technical and functional customer requirement",
-        "Redaction of intern technical documentation",
+        "Redaction of internal technical documentation",
         "Redaction of customer targeted functional documentation",
         "Conception of software inter-connection with real-time update",
         "API conception and consumption"
       ],
       "description": "Software service company for the product Sage X3, PTC Creo & WindChill, Salesforce & Ansys Simulation.",
-      "summary": "_This position is issued from a company takeover. I didn't resign from my position._\n\nWhere I pursue my various task of **technical consultant engineer** on Sage X3. \nAs well my roles of **Product owner** and **Technical leader** for the Sage X3 Add-on \"RichMail By Logtimiz\" and the \"In-House\" built ticketing application.",
+      "summary": "_This position is issued from a company takeover. I didn't resign from my position._\n\nI pursued my various task of **technical consultant engineer** on Sage X3. \nAs well as my roles of **Product owner** and **Technical leader** for the Sage X3 Add-on \"RichMail By Logtimiz\" and the \"In-House\" built ticketing application.",
       "location": "Limonest, France"
     },
     {
@@ -46,13 +46,13 @@
       "position": "Software engineer - Technical Consultant",
       "startDate": "2021-03-01",
       "highlights": [
-        "In charge of one full-time web developer",
+        "In charge of one full-time web developer to keep developing the \"In-House\" built ticketing application while being assigned onto wider X3 projects",
         "Complex add-on development environment to support a wide range of Sage X3 version (from v7 to v12)",
         "Developed intern tools for Add-on deployment, certificates and licenses generation (Tauri desktop application)",
-        "Learn how to dialog and interact with a wide range of customers size (from couple people organization to multi-national corporation"
+        "Learn how to dialog and interact with a wide range of customers size (from the family size business to multinational company)"
       ],
       "description": "Software service company for the product Sage X3.",
-      "summary": "Responsible of the \"In-House\" built ticketing application interconnected with the ERP Sage X3 (Product owner and Technical lead).\n\nStrong from my problem solving skills and my experience in ticketing I became in charge of wider project with the analysis, estimate, and realization of custom adaptations on the ERP Sage X3. While still being a technical consultant engineer in the support team. \n\nI'm also the author of the \"RichMail By Logtimiz\" Sage X3 Add-on who enhance the mailing capabilities of Sage X3.",
+      "summary": "Responsible for the \"In-House\" built ticketing application interconnected with the ERP Sage X3 (Product owner and Technical lead).\n\nStrong from my problem-solving skills and my experience in ticketing, I became in charge of wider project with the analysis, estimate, and realization of custom adaptations on the ERP Sage X3. While still being a technical consultant engineer in the support team. \n\nI'm also the author of the \"RichMail By Logtimiz\" Sage X3 Add-on who enhance the mailing capabilities of Sage X3.",
       "location": "Limonest, France"
     },
     {
@@ -62,7 +62,7 @@
       "endDate": "2021-03-01",
       "highlights": [],
       "description": "Software service company for the product Sage X3.",
-      "summary": "I pursued the work done in my internship as the principal maintainer of the ticketing web application, now in production. Being in charge of various task from bug/hotfixes, development of the new feature requested by my co-worker and our customer to the maintenance of the production application and delivery of new releases.\n\nIn addition, I join the support team to sharpen my Sage X3 knowledge, customer relationship skills.",
+      "summary": "I pursued the work done in my internship as the principal maintainer of the ticketing web application, now in production. Being in charge of various task from bug/hotfixes, development of the new feature to the maintenance of the production application, delivery of new releases and monitoring the production instance.\n\nIn addition, I join the support team to sharpen my Sage X3 knowledge, customer relationship skills.",
       "location": "Limonest, France"
     },
     {
@@ -72,9 +72,10 @@
       "startDate": "2020-05-18",
       "endDate": "2020-08-01",
       "highlights": [
+        "Designing the tech stack, data structure and services architecture of the web application",
         "PHP Programming language and Symfony framework",
         "UML and OOP development",
-        "Twig, Bootstrap and Vue3 for Front-End development"
+        "Twig, Bootstrap and VueJS for Front-End development"
       ],
       "summary": "Analysis and design of a web application combining customer space and support space based on the Symfony framework.\n Real-time interconnection of the web application with the company ERP (Sage X3).",
       "location": "Limonest, France"
